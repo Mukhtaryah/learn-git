@@ -1,1 +1,1 @@
-First Version
+Learning git is fun
